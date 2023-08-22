@@ -2,23 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96cb2f2b-3412-4109-9313-cd4769fcf4a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programacion_Orientada_AObjetos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/pedroortega/Reto1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/pedroortega/Reto1/Process/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/pedroortega/Reto1/UI/CLI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/pedroortega/Reto1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/pedroortega/Reto1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/pedroortega/Reto1/Process/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/pedroortega/Reto1/Process/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/pedroortega/Reto1/UI/CLI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/pedroortega/Reto1/UI/CLI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ULTJ9YIHsVyPnfjPX2VxzM3llX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
